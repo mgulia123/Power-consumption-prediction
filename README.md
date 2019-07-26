@@ -1,5 +1,4 @@
 # Power-consumption-prediction
-Multivariate multi step time series forecasting of global active power consumption for next 7 days
 Developed a multivariate multistep time series forecasting model using lagged variables to predict 
 the electricity power consumption for next 7 days.
 Cleaned the data and performed data exploration and visualisation using matplotlib, seaborn, ggplot2 and 
